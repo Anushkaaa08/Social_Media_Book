@@ -1,0 +1,1 @@
+web gunicorn django-social-media-website.wsgi:application --log-file -
